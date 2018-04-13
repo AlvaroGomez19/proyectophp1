@@ -14,7 +14,7 @@
    $appat=$_GET['apellidop'];
    $apmat=$_GET['apellidom'];
    $nombre=$_GET['nombre'];
-  
+  ?>
 <table>
 	<?php
 	
