@@ -10,10 +10,10 @@
 </head>
 <body>
    <?php
-   $matricula=$_GET['matricula'];
-   $appat=$_GET['apellidop'];
-   $apmat=$_GET['apellidom'];
-   $nombre=$_GET['nombre'];
+   $matricula=$_POST['matricula'];
+   $appat=$_POST['apellidop'];
+   $apmat=$_POST['apellidom'];
+   $nombre=$_POST['nombre'];
   ?>
 <table>
 	<?php
